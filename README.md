@@ -1,4 +1,5 @@
 # Bank Churner Classifier
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/secregister01/2021-03-12-ML-Lab-Final-Project/]
 This is Sicheng Zhou's final project of USFCA MSDS 699 Machine Learning Lab taught by professor [Brian Spiering](https://www.linkedin.com/in/brianspiering/).
 
 ## Overview
